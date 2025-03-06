@@ -1,0 +1,1 @@
+In case the application is not extracted properly, turn off the Real-time protection setting of Windows Defender.
